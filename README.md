@@ -30,7 +30,9 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [Paul Hudson's Unwrap App](https://github.com/twostraws/Unwrap)
 - [XcodeGen is a command line tool written in Swift that generates your Xcode project using your folder structure and a project spec.](https://github.com/yonaskolb/XcodeGen)
 - [Swiftjective-C](https://www.swiftjectivec.com/)
-- []()
+- [Swift by John Sundell](https://www.swiftbysundell.com/)
+- [Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com/)
+- [Guilherme Rambo Codes](https://rambo.codes/)
 
 ## Misc
 - [European Patent Office](https://www.epo.org/searching-for-patents/technical/espacenet.html#tab-1)
