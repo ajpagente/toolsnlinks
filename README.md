@@ -14,6 +14,7 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering. ](https://github.com/OWASP/owasp-mstg)
 - [SnoopSnitch is an open source Android app that offers users the opportunity to test the security of their mobile devices as well as of the mobile networks to which their devices connect.](https://opensource.srlabs.de/projects/snoopsnitch)
 - [The Way of Ryantzj](http://www.ryantzj.com/)
+- [@reyammer's Mobile Security site](https://mobisec.reyammer.io/)
 
 ## Web Scraping
 - [DumpTheGit searches through public repositories to find sensitive information uploaded to the Github repositories.](https://github.com/Securityautomation/DumpTheGit)
