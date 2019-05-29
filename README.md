@@ -35,5 +35,8 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [Hacking with Swift by Paul Hudson](https://www.hackingwithswift.com/)
 - [Guilherme Rambo Codes](https://rambo.codes/)
 
+## Android Development
+- [In Depth: Android Package Manager and Package Installer](https://dzone.com/articles/depth-android-package-manager)
+
 ## Misc
 - [European Patent Office](https://www.epo.org/searching-for-patents/technical/espacenet.html#tab-1)
