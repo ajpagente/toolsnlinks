@@ -5,6 +5,8 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [GrammaTech releases Binary Analysis and Rewriting Interface into Open Source](http://www.newelectronics.co.uk/electronics-news/grammatech-releases-binary-analysis-and-rewriting-interface-into-open-source/214869/)
 - [The GrammaTech Intermediate Representation for Binaries (GTIRB) is a machine code analysis and rewriting data structure.](https://github.com/GrammaTech/gtirb)
 - [A fast disassembler which is accurate enough for the resulting assembly code to be reassembled.](https://github.com/GrammaTech/ddisasm)
+- [AFLogical OSE: Open source Android Forensics app and framework](https://github.com/nowsecure/android-forensics)
+- [A collection of android security related resources](https://github.com/ashishb/android-security-awesome)
 
 ## Mobile Security
 - [Android Security by Lukas Stefanko](https://lukasstefanko.com/)
