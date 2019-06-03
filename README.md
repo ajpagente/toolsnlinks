@@ -7,6 +7,9 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [A fast disassembler which is accurate enough for the resulting assembly code to be reassembled.](https://github.com/GrammaTech/ddisasm)
 - [AFLogical OSE: Open source Android Forensics app and framework](https://github.com/nowsecure/android-forensics)
 - [A collection of android security related resources](https://github.com/ashishb/android-security-awesome)
+- [Maddie Stone's Android RE](https://github.com/maddiestone/AndroidAppRE)
+- [MalwareUnicorn's x86 RE Workshop](https://malwareunicorn.org/#/workshops)
+- [chmodxx blog](http://blog.chmodxx.net/about/)
 
 ## Mobile Security
 - [Android Security by Lukas Stefanko](https://lukasstefanko.com/)
