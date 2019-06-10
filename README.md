@@ -54,5 +54,8 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [Open Source Threat Intelligence Chat Bot ](https://github.com/cylance/CyBot)
 - [crawl GitHub web pages for insights we can't GET from the API](https://github.com/nelsonic/github-scraper)
 
+## Security Podcasts
+- [InfoSec Campus](https://infoseccampus.com/)
+
 ## Misc
 - [European Patent Office](https://www.epo.org/searching-for-patents/technical/espacenet.html#tab-1)
