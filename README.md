@@ -49,13 +49,24 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [Mobile Top 10 2016-Top 10](https://www.owasp.org/index.php/Mobile_Top_10_2016-Top_10)
 - [OWASP Top 10 - 2017 The Ten Most Critical Web Application Security Risks](https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf)
 
+## Security Podcasts
+- [InfoSec Campus](https://infoseccampus.com/)
+
 ## Web Scraping
 - [DumpTheGit searches through public repositories to find sensitive information uploaded to the Github repositories.](https://github.com/Securityautomation/DumpTheGit)
 - [Open Source Threat Intelligence Chat Bot ](https://github.com/cylance/CyBot)
 - [crawl GitHub web pages for insights we can't GET from the API](https://github.com/nelsonic/github-scraper)
 
-## Security Podcasts
-- [InfoSec Campus](https://infoseccampus.com/)
 
 ## Misc
 - [European Patent Office](https://www.epo.org/searching-for-patents/technical/espacenet.html#tab-1)
+
+## References
+Interesting articles, talks, and other references
+
+### Android Reverse Engineering
+- [Android Reversing by Security Over Simplicity](https://securityoversimplicity.wordpress.com/2017/04/29/android-reversing-part-1-internals/)
+- [Android reverse engineering: understanding third-party applications. OWASP EU Tour 2013 Bucharest (Romania)](https://www.slideshare.net/ISecAuditors/android-reverse-engineering)
+- [Fake Android Flash Player Hits Global Financial Institutions](https://www.fortinet.com/blog/threat-research/fake-android-flash-player-hits-global-financial-institutions.html)
+- [How-to Guide: Defeating an Android Packer with FRIDA](https://www.fortinet.com/blog/threat-research/defeating-an-android-packer-with-frida.html)
+- [Video: Reverse Engineering Android Applications](https://www.youtube.com/watch?v=m9UZnWLLurY)
