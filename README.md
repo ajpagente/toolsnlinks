@@ -70,3 +70,7 @@ Interesting articles, talks, and other references
 - [Fake Android Flash Player Hits Global Financial Institutions](https://www.fortinet.com/blog/threat-research/fake-android-flash-player-hits-global-financial-institutions.html)
 - [How-to Guide: Defeating an Android Packer with FRIDA](https://www.fortinet.com/blog/threat-research/defeating-an-android-packer-with-frida.html)
 - [Video: Reverse Engineering Android Applications](https://www.youtube.com/watch?v=m9UZnWLLurY)
+
+### Mobile Malware
+- [Mobile Malware Analysis : Overlay and How to Counter it (partly)](https://eybisi.run/Mobile-Malware-Analysis-Overlay-and-How-to-Counter-it/)
+- [Mobile Malware Analysis : Tricks used in Anubis](https://eybisi.run/Mobile-Malware-Analysis-Tricks-used-in-Anubis/)
