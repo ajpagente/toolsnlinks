@@ -43,6 +43,7 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 - [Maddie Stone's Android RE](https://github.com/maddiestone/AndroidAppRE)
 - [MalwareUnicorn's x86 RE Workshop](https://malwareunicorn.org/#/workshops)
 - [chmodxx blog](http://blog.chmodxx.net/about/)
+- [LiME: a Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, such as those powered by Android.](https://github.com/504ensicsLabs/LiME) 
 
 ## Secure Coding
 - [CWE/SANS Top 25 Most Dangerous Software Errors](http://cwe.mitre.org/top25/)
@@ -70,6 +71,7 @@ Interesting articles, talks, and other references
 - [Fake Android Flash Player Hits Global Financial Institutions](https://www.fortinet.com/blog/threat-research/fake-android-flash-player-hits-global-financial-institutions.html)
 - [How-to Guide: Defeating an Android Packer with FRIDA](https://www.fortinet.com/blog/threat-research/defeating-an-android-packer-with-frida.html)
 - [Video: Reverse Engineering Android Applications](https://www.youtube.com/watch?v=m9UZnWLLurY)
+- [Video: Unpacking the Packed Unpacker: Reverse Engineering an Android Anti-Analysis Native Library](https://www.youtube.com/watch?v=s0Tqi7fuOSU)
 
 ### Mobile Malware
 - [Mobile Malware Analysis : Overlay and How to Counter it (partly)](https://eybisi.run/Mobile-Malware-Analysis-Overlay-and-How-to-Counter-it/)
