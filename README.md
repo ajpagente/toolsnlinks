@@ -9,6 +9,8 @@ I use this as a repository of links to tools, articles, and web pages that I fin
 
 ## Information Security
 - [Kelly Shortridge's site](https://swagitda.com/)
+- [James 'albinowax' Kettle's site](https://skeletonscribe.net/)
+- [Portswigger blog](https://portswigger.net/blog)
 
 ## iOS Development
 - [Paul Hudson's Unwrap App](https://github.com/twostraws/Unwrap)
